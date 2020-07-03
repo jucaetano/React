@@ -1,4 +1,4 @@
-## Rodar o comando npm start para trazer todas as dependências(deverá criar a pasta node_modules.
+
 
 ## Available Scripts
 
