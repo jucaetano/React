@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Rodar o comando npm start para trazer todas as dependências(deverá criar a pasta node_modules.
 
 ## Available Scripts
 
